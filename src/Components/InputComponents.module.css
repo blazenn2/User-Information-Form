@@ -1,0 +1,9 @@
+.div {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    justify-content: center;
+    margin-bottom: 25px;
+
+    align-self: end;
+}
